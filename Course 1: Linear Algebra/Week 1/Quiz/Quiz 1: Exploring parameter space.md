@@ -66,7 +66,7 @@ For the heights of a population, a model we may use to predict frequencies is th
 **Question 4.**
 A model allows us to predict the data in a distribution. In our example we can start with a parameter vector \mathbf{p}p and convert it to a vector of expected frequencies **g_p**, for example,
 
-<img src = '../Images/Q4_1.jpg'>
+<img src = '../Images/Q4_1.png'>
 
 A model is only considered good if it fits the measured data well. Some specific values for the parameters will be better than others for a model. We need a way fit a model's parameters to data and quantify how good that fit is.
 

@@ -9,13 +9,14 @@ Imagine that you place one end of a water hose into a swimming pool and turn the
 While the swimming pool is still filling up with water, what would we expect the plot of the function of volume of water in the pool with respect to time to look like?
 
 - [ ] <img src = "../Images/q1_op1.jpg">
+<br><br>
 
 - [ ] <img src = "../Images/q1_op2.jpg">
-
+<br><br>
 - [x] <img src = "../Images/q1_op3.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q1_op4.jpg">
-
+<br><br>
 ```
 Correct
 Well done! As water flows in at a constant rate, the volume increases at a
@@ -30,13 +31,13 @@ The tea is left to cool down. The speed of cooling depends on the temperature of
 Which of the following graphs could represent the temperature of that cup of tea with time?
 
 - [ ] <img src = "../Images/q2_op1.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q2_op2.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q2_op3.jpg">
-
+<br><br>
 - [x] <img src = "../Images/q2_op4.jpg">
-
+<br><br>
 ```
 Correct
 If you're interested in understanding more you could read about Newton's law
@@ -50,13 +51,13 @@ Rahul drops a ball from the top of a ladder into a pit of sand.
 When the ball is released it begins to accelerate towards the ground, getting faster and faster until it hits the sand and quickly becomes stationary again. What would a plot of the speed of the ball against time look like?
 
 - [ ] <img src = "../Images/q3_op1.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q3_op2.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q3_op3.jpg">
-
+<br><br>
 - [x] <img src = "../Images/q3_op4.jpg">
-
+<br><br>
 ```
 Correct
 The plot has three distinct regions. When the ball is falling it speeds up at
@@ -70,13 +71,13 @@ Bags of flour labelled 1 kg from a supermarket are weighed. Most of the weights 
 What might we expect the plot of frequency (i.e. how often a type of bag is found) against mass to look like?
 
 - [ ] <img src = "../Images/q4_op1.jpg">
-
+<br><br>
 - [x] <img src = "../Images/q4_op2.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q4_op3.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q4_op4.jpg">
-
+<br><br>
 ```
 Correct
 The weights can be approximated by a bell-curve, called the "Normal Distribution".
@@ -89,13 +90,13 @@ A mass is attached to a string and hung from the ceiling. It is then pulled away
 What is a reasonable plot for the displacement of the mass from equilibrium with respect to time?
 
 - [ ] <img src = "../Images/q5_op1.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q5_op2.jpg">
-
+<br><br>
 - [ ] <img src = "../Images/q5_op3.jpg">
-
+<br><br>
 - [x] <img src = "../Images/q5_op4.jpg">
-
+<br><br>
 ```
 Correct
 This is called a simple harmonic oscillator - that is, we model the movement

@@ -64,8 +64,10 @@ in the "decreasing region", passing through zero at the "turning point"
 ```
 **Question 3.**
 Use the same method of breaking up the plot into increasing and decreasing regions and points with zero gradient to identify which diagram below best describes the derivative of the function in the following graph. (Hint: start by counting how many times the gradient is zero.)
+
 <img src="../Images/Qz2_q3.png">
 <br><br><br><br>
+
 - [ ] <img src="../Images/Qz2_q3_op1.jpg">
 <br><br>
 <br><br>
@@ -89,6 +91,7 @@ This figure best describes how the function changes with x.
 
 **Question 4.**
 Which diagram best describes the derivative of the function in the following diagram? (Hint: This function is just the same as the previous question, but shift upwards... will this affect the gradient?)
+
 <img src="../Images/Qz2_q4.png">
 <br><br>
 
@@ -114,6 +117,7 @@ Shifting a function up or down does not change the gradient at all.
 ```
 **Question 5.**
 Now for the reverse problem... Look at the figure below.
+
 <img src="../Images/Qz2_q5.png">
 
 - [x] <img src="../Images/Qz2_q5_op1.jpg">
